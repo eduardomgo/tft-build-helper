@@ -36,7 +36,7 @@ all_champions = [
   {"name": "Vex", "cost": 3, "traits": ["Chrono", "Mage"]},
   {"name": "Wukong", "cost": 3, "traits": ["Druid"]},
   {"name": "Ahri", "cost": 2, "traits": ["Arcana", "Scholar"]},
-  {"name": "Akali", "cost": 2, "traits": ["Pyro", "Warrior"]},
+  {"name": "Akali", "cost": 2, "traits": ["Pyro", "Warrior", "Multistriker"]},
   {"name": "Cassiopeia", "cost": 2, "traits": ["Witchcraft", "Incantor"]},
   {"name": "Galio", "cost": 2, "traits": ["Portal", "Vanguard", "Mage"]},
   {"name": "Kassadin", "cost": 2, "traits": ["Portal", "Multistriker"]},
