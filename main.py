@@ -137,9 +137,9 @@ def find_compositions(min_cost, max_cost, max_num_champions, min_traits, current
     
     return sort_compositions_by_cost(valid_compositions)
 
-min_cost = 4
-max_cost = 5
-max_num_champions = 9
+min_cost = 1
+max_cost = 3
+max_num_champions = 7
 min_traits = 7
 current_champions = []
 emblem_traits = []
