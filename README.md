@@ -14,7 +14,8 @@ Bard, Hwei, Rumble, Zilean, Poppy, Warwick, Zoe | Sugarcraft, Preserver, Scholar
 Bard, Ezreal, Neeko, Rumble, Blitzcrank, Jayce, Zoe | Sugarcraft, Scholar, Portal, Blaster, Witchcraft, Shapeshifter, Vanguard
 Bard, Ezreal, Neeko, Rumble, Jayce, Warwick, Zoe | Sugarcraft, Scholar, Portal, Blaster, Witchcraft, Shapeshifter, Vanguard
 Bard, Ezreal, Cassiopeia, Galio, Rumble, Ziggs, Zoe | Sugarcraft, Scholar, Portal, Blaster, Witchcraft, Incantor, Vanguard
-Bard, Ezreal, Galio, Nunu, Rumble, Poppy, Zoe | Sugarcraft, Scholar, Portal, Blaster, Vanguard, Bastion, WitchcraftBard, Ezreal, Galio, Rumble, Zilean, Jax, Zoe | Sugarcraft, Preserver, Scholar, Portal, Blaster, Vanguard, Chrono  
+Bard, Ezreal, Galio, Nunu, Rumble, Poppy, Zoe | Sugarcraft, Scholar, Portal, Blaster, Vanguard, Bastion, Witchcraft
+Bard, Ezreal, Galio, Rumble, Zilean, Jax, Zoe | Sugarcraft, Preserver, Scholar, Portal, Blaster, Vanguard, Chrono  
 Bard, Ezreal, Galio, Rumble, Zilean, Poppy, Zoe | Sugarcraft, Preserver, Scholar, Portal, Blaster, Vanguard, Witchcraft
 Bard, Hwei, Ahri, Rumble, Zilean, Jax, Warwick | Sugarcraft, Preserver, Scholar, Frost, Blaster, Vanguard, Chrono  
 Bard, Hwei, Cassiopeia, Rumble, Zilean, Warwick, Zoe | Sugarcraft, Preserver, Scholar, Frost, Blaster, Witchcraft, Vanguard
@@ -26,7 +27,8 @@ Bard, Ezreal, Hecarim, Galio, Rumble, Poppy, Zoe | Sugarcraft, Scholar, Portal, 
 Bard, Ezreal, Neeko, Galio, Rumble, Elise, Zoe | Sugarcraft, Scholar, Portal, Blaster, Witchcraft, Shapeshifter, Vanguard
 Bard, Ezreal, Neeko, Galio, Rumble, Jayce, Zoe | Sugarcraft, Scholar, Portal, Blaster, Witchcraft, Shapeshifter, Vanguard
 Bard, Ezreal, Neeko, Rumble, Zilean, Jayce, Zoe | Sugarcraft, Preserver, Scholar, Portal, Blaster, Witchcraft, Shapeshifter
-Bard, Ezreal, Shen, Galio, Rumble, Poppy, Zoe | Sugarcraft, Scholar, Portal, Blaster, Bastion, Vanguard, WitchcraftBard, Ezreal, Cassiopeia, Galio, Rumble, Syndra, Zoe | Sugarcraft, Scholar, Portal, Blaster, Witchcraft, Incantor, Vanguard
+Bard, Ezreal, Shen, Galio, Rumble, Poppy, Zoe | Sugarcraft, Scholar, Portal, Blaster, Bastion, Vanguard, Witchcraft
+Bard, Ezreal, Cassiopeia, Galio, Rumble, Syndra, Zoe | Sugarcraft, Scholar, Portal, Blaster, Witchcraft, Incantor, Vanguard
 Bard, Ezreal, Cassiopeia, Galio, Rumble, Zilean, Zoe | Sugarcraft, Preserver, Scholar, Portal, Blaster, Witchcraft, Vanguard
 Bard, Hwei, Neeko, Galio, Rumble, Jayce, Zoe | Sugarcraft, Scholar, Blaster, Witchcraft, Shapeshifter, Portal, Vanguard
 Bard, Hwei, Neeko, Rumble, Zilean, Warwick, Zoe | Sugarcraft, Preserver, Scholar, Frost, Blaster, Witchcraft, Vanguard
