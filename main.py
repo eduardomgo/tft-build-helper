@@ -70,7 +70,7 @@ all_traits = [
   {"name": "Dragon", "levels": [2, 3]},
   {"name": "Druid", "levels": [1]},
   {"name": "Eldritch", "levels": [3, 5, 7, 10]},
-  {"name": "Faerie", "levels": [2, 4, 6, 9]},
+  {"name": "Faerie", "levels": [3, 5, 7, 9]},
   {"name": "Frost", "levels": [3, 5, 7, 9]},
   {"name": "Honeymancy", "levels": [3, 5, 7]},
   {"name": "Portal", "levels": [3, 6, 8, 10]},
