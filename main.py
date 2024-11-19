@@ -2,7 +2,7 @@ from itertools import combinations
 import math
 import json
 
-set_data = json.load(open("set12.json"))
+set_data = json.load(open("set13.json"))
 
 all_champions = set_data["champions"]
 
@@ -52,7 +52,7 @@ def find_compositions(min_cost, max_cost, max_num_champions, min_traits, current
 
 min_cost = 1
 max_cost = 3
-max_num_champions = 7
+max_num_champions = 6
 min_traits = 7
 current_champions = []
 emblem_traits = []
