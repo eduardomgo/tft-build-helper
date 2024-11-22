@@ -3,26 +3,6 @@
 This repo has been created aiming to list all solutions to trait tracker, i want to add some more features but the code has to be optimized. All the tables are ordered by board cost.
 
 
-## Trait Tracker Solution SET 13
-
-All the solutions below are not considering the use of emblems. This set is prety flexible allowing the aug mission to be completed on level 6 and having too many solutions for level 7. So i choose to save only the level 6 solutions.
-
-
-Champions | Traits
---- | ---
-Gangplank, Nami, Swain, Draven, Steb, Trundle | Scrap, Form Swapper, Pit Fighter, Emissary, Sorcerer, Conqueror, Bruiser
-Gangplank, Nami, Swain, Camille, Draven, Powder | Scrap, Form Swapper, Pit Fighter, Emissary, Sorcerer, Conqueror, Ambusher
-Gangplank, Nami, Swain, Sett, Draven, Trundle | Scrap, Form Swapper, Pit Fighter, Emissary, Sorcerer, Conqueror, Bruiser   
-Gangplank, Swain, Tristana, Urgot, Vladimir, Darius | Form Swapper, Pit Fighter, Conqueror, Sorcerer, Emissary, Artillerist, Watcher
-Gangplank, Nami, Nunu & Willump, Swain, Draven, Trundle | Scrap, Form Swapper, Pit Fighter, Emissary, Sorcerer, Bruiser, Conqueror
-Gangplank, Nami, Renni, Swain, Draven, Trundle | Scrap, Form Swapper, Pit Fighter, Emissary, Sorcerer, Bruiser, Conqueror  
-Gangplank, Nami, Smeech, Swain, Draven, Powder | Scrap, Form Swapper, Pit Fighter, Emissary, Sorcerer, Ambusher, Conqueror 
-Blitzcrank, Gangplank, Nami, Swain, Ziggs, Draven | Dominator, Scrap, Form Swapper, Pit Fighter, Emissary, Sorcerer, Conqueror
-Cassiopeia, Gangplank, Nami, Swain, Ziggs, Draven | Dominator, Scrap, Form Swapper, Pit Fighter, Emissary, Sorcerer, Conqueror
-Gangplank, Nami, Nunu & Willump, Swain, Rell, Trundle | Scrap, Form Swapper, Emissary, Sorcerer, Bruiser, Visionary,Conqueror
-Loris, Nami, Nunu & Willump, Swain, Rell, Steb | Enforcer, Sentinel, Emissary, Sorcerer, Bruiser, Visionary, Conqueror
-
-
 ## Trait Tracker Solution SET 12
 
 All the solutions below are not considering the use of emblems.
